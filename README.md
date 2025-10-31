@@ -48,23 +48,8 @@ Version Control	Git + GitHub
 🔗 Admin Panel: https://smart-todo-website-1.onrender.com
 
 📂 Folder Structure
-web-smart-todo/
-├── backend/
-│   ├── server.js
-│   ├── models/
-│   ├── routes/
-│   └── controllers/
-├── frontend/
-│   ├── index.html
-│   ├── login.html
-│   ├── admin.html
-│   └── static/
-│       ├── css/
-│       ├── js/
-│       └── images/
-├── package.json
-├── .env
-└── README.md
+<img width="702" height="590" alt="image" src="https://github.com/user-attachments/assets/2dbfb08b-4853-420e-9676-3d9b63aef3cb" />
+
 
 ⚙️ Installation & Setup
 
